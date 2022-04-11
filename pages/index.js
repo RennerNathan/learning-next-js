@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
 
-      <h1> Welcome to next</h1>
+      <h1> Welcome to Next</h1>
     </div>
   )
 }
